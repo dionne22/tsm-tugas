@@ -1,0 +1,48 @@
+{
+    "tugas": [
+        {
+            "id_tugas": 1,
+            "nama_tugas": "Membuat website",
+            "departemen": "IT",
+            "koordinator": "John",
+            "tanggal_pemberian": "2021-11-20",
+            "tenggat_waktu": "2021-12-20",
+            "description": "Membuat website untuk keperluan profil perusahaan",
+            "hasil_tugas": "https://github.com/john",
+            "status": "Done"
+        },
+        {
+          "id_tugas": 2,
+          "nama_tugas": "Membuat design website",
+          "departemen": "Design",
+          "koordinator": "Jane",
+          "tanggal_pemberian": "2021-11-20",
+          "tenggat_waktu": "2021-12-01",
+          "description": "Membuat design website untuk keperluan profil perusahaan",
+          "hasil_tugas": "https://figma.com/file",
+          "status": "Done"
+      },
+        {
+            "id_tugas": 3,
+            "nama_tugas": "Menambah fitur website",
+            "departemen": "IT",
+            "koordinator": "Jake",
+            "tanggal_pemberian": "2021-12-27",
+            "tenggat_waktu": "2022-01-27",
+            "description": "Menambahkan fitur gallery pada website",
+            "hasil_tugas": "-",
+            "status": "On Progress"
+        },
+        {
+          "id_tugas": 3,
+          "nama_tugas": "Melakukan testing website",
+          "departemen": "IT",
+          "koordinator": "Jake",
+          "tanggal_pemberian": "2021-12-27",
+          "tenggat_waktu": "2022-02-07",
+          "description": "Melakukan testing website bersama bagian Quality Assurance",
+          "hasil_tugas": "-",
+          "status": "On Progress"
+      }
+    ]
+}
